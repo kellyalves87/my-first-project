@@ -8,21 +8,21 @@ export interface Product {
   export const products = [
     {
       id: 1,
-      name: 'Phone XL',
-      price: 799,
-      description: 'A large phone with one of the best screens'
+      name: 'T-shirt Kimetsu no Yaiba',
+      price: 40,
+      description: 'Your favorite characters in different sizes and models'
     },
     {
       id: 2,
-      name: 'Phone Mini',
-      price: 699,
-      description: 'A great phone with one of the best cameras'
+      name: 'T-shirt My Hero Academia',
+      price: 40,
+      description: 'Come get trendy with your favorite heroes'
     },
     {
       id: 3,
-      name: 'Phone Standard',
-      price: 299,
-      description: ''
+      name: 'T-shirt Chainsaw Man',
+      price: 40,
+      description: 'Be cute like Pochita'
     }
   ];
   
